@@ -1,1 +1,1 @@
-# Backend_Canteen_App
+Restaurant Application developed using Node.js and JavaScript
